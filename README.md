@@ -86,4 +86,3 @@ GITHUB_ENTERPRISE_URL="https://my-ghe.local/api/v3"
 ```
 
 
-### Test
